@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 </a>
 -->
 
-I'm currently working as a junior LLM researcher at Megvii Technology Limited , based in Beijing . Before joining the company, I received my master's degree at KIT in Germany and also spent less than a year at ETH Zurich in Switzerland conducting LLM research in the healthcare domain. Before all that, I spent four joyful years at Shandong University in China as an undergraduate student in Mechanical Engineering.
+I'm currently working as an LLM Engineer at Bytedance, based in Shenzhen. Before joining the company, I received my master's degree at KIT in Germany and also spent less than a year at ETH Zurich in Switzerland conducting LLM research in the healthcare domain. Before all that, I spent four joyful years at Shandong University in China as an undergraduate student in Mechanical Engineering.
 
 <br />
 
 **Tags on Me:**
 
-- 👨🏽‍💻 I'm a Junior applied LLM researcher at Megvii.
+- 👨🏽‍💻 I'm an LLM Engineer at Bytedance.
 - 🌱 Exploring topics related to LLM alignment, and its vertical applications, particularly in finance domain.
 - 🧑 Love AI, believe in humanity.
 - 📫 Email me at [youxiang.dong@outlook.com](youxiang.dong@outlook.com).
